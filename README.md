@@ -1,1 +1,2 @@
 # EntrainmentAndMulti-stabilityInTheP53OscillatorySystem
+This repository includes the Python codes that have been used in order to analyse the behaviour of p53 in response to both single pulse of nutlin and multiple pulses of nutlin, by computing PRCs and PTCs, detecting the presence of entrainment, period-doubling, mode-hopping and chaotic dynamics.
